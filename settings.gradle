@@ -1,0 +1,3 @@
+rootProject.name = 'com.thisissvikas.enterprise-news-app'
+include 'enterprise-news-app-api'
+include 'enterprise-news-app-content-service'
